@@ -8,7 +8,18 @@ namespace DTO_QuanLySpa
 {
     public class DichVuDTO
     {
+        private string maDV;
+        private string tenDV;
+        private double gia;
         private string loaiDichVu;
+        // Thuộc tính để lưu mã dịch vụ (ví dụ: "DV001")
+        public string MaDV { get; set; }
+
+        // Thuộc tính để lưu tên dịch vụ
+        public string TenDV { get; set; }
+
+        // Thuộc tính để lưu giá
+        public double Gia { get; set; }
         public string LoaiDichVu
         {
             get { return loaiDichVu; }
@@ -22,5 +33,10 @@ namespace DTO_QuanLySpa
                     Console.WriteLine("Dich vu khong hop le!");
             }
         }
+        public override string ToString()
+        {
+            return $"[{MaDV}] {TenDV} - {Gia:N0} VNĐ - (Loại: {LoaiDichVu})";
+        }
+
     }
 }

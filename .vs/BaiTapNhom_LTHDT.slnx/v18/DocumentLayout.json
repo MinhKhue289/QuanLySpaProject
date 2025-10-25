@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC571D69-F353-49C5-B9A7-EE555BDA8D78}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\bll_quanlyspa\\quanlyspabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC571D69-F353-49C5-B9A7-EE555BDA8D78}|BLL_QuanLySpa\\BLL_QuanLySpa.csproj|solutionrelative:bll_quanlyspa\\quanlyspabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\BLL_QuanLySpa\\QuanLySpaBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL_QuanLySpa\\QuanLySpaBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A178F9-15B9-4F7D-9060-24B3F6DC2F85}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\dto_quanlyspa\\dichvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A178F9-15B9-4F7D-9060-24B3F6DC2F85}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\dichvudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\BaiTapNhom_LTHDT\\QuanLySpaGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiTapNhom_LTHDT\\QuanLySpaGUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A178F9-15B9-4F7D-9060-24B3F6DC2F85}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\dto_quanlyspa\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5A178F9-15B9-4F7D-9060-24B3F6DC2F85}|DTO_QuanLySpa\\DTO_QuanLySpa.csproj|solutionrelative:dto_quanlyspa\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\DTO_QuanLySpa\\KhachHangDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO_QuanLySpa\\KhachHangDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E45EEA-9DCF-4724-A765-11BDFE3DE449}|BaiTapNhom_LTHDT\\GUI_QuanLySpa.csproj|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\baitapnhom_lthdt\\quanlyspagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E45EEA-9DCF-4724-A765-11BDFE3DE449}|BaiTapNhom_LTHDT\\GUI_QuanLySpa.csproj|solutionrelative:baitapnhom_lthdt\\quanlyspagui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\DTO_QuanLySpa\\DichVuDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO_QuanLySpa\\DichVuDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015FE221-96B2-289B-A0E8-6E7354784A75}|Data{015FE221-96B2-289B-A0E8-6E7354784A75}|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\QuanLySpa.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{015FE221-96B2-289B-A0E8-6E7354784A75}|Data{015FE221-96B2-289B-A0E8-6E7354784A75}|solutionrelative:QuanLySpa.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\QuanLySpa.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuanLySpa.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CC52D4-0BF0-CBF5-B0F6-63314A6EE482}|README{69CC52D4-0BF0-CBF5-B0F6-63314A6EE482}|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{69CC52D4-0BF0-CBF5-B0F6-63314A6EE482}|README{69CC52D4-0BF0-CBF5-B0F6-63314A6EE482}|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "QuanLySpaGUI.cs",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\BaiTapNhom_LTHDT\\QuanLySpaGUI.cs",
               "RelativeDocumentMoniker": "BaiTapNhom_LTHDT\\QuanLySpaGUI.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DichVuDTO.cs",
               "DocumentMoniker": "C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\DTO_QuanLySpa\\DichVuDTO.cs",
               "RelativeDocumentMoniker": "DTO_QuanLySpa\\DichVuDTO.cs",
@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "BLL_QuanLySpa\\QuanLySpaBLL.cs",
               "ToolTip": "C:\\Users\\THANH\\Desktop\\BaiTapNhom_LTHDT\\BLL_QuanLySpa\\QuanLySpaBLL.cs",
               "RelativeToolTip": "BLL_QuanLySpa\\QuanLySpaBLL.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T15:55:46.151Z",
               "EditorCaption": ""

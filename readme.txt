@@ -20,8 +20,6 @@ Hàm LoadData() sẽ có:
 
     foreach (var kh in khDTO) // Lấy ra KH001
     {
-        // Duyệt qua cái danh sách CHUỖI MÃ
-        // kh.MaDichVuSuDung đang là ["DV001", "DV002"]
         foreach (var maDV in kh.MaDichVuSuDung) 
         {
             // với maDV = "DV001", tìm trong dvDTO (Bước 1)
