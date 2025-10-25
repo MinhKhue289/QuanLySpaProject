@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Data/">
+    <File Path="QuanLySpa.xml" />
+  </Folder>
+  <Folder Name="/README/">
+    <File Path="readme.txt" />
+  </Folder>
+  <Project Path="BaiTapNhom_LTHDT/GUI_QuanLySpa.csproj" Id="09e45eea-9dcf-4724-a765-11bdfe3de449" />
+  <Project Path="BLL_QuanLySpa/BLL_QuanLySpa.csproj" Id="ac571d69-f353-49c5-b9a7-ee555bda8d78" />
+  <Project Path="DAL_QuanLySpa/DAL_QuanLySpa.csproj" Id="5ddec2b3-373f-47cf-b662-37a0cab04a8c" />
+  <Project Path="DTO_QuanLySpa/DTO_QuanLySpa.csproj" Id="a5a178f9-15b9-4f7d-9060-24b3f6dc2f85" />
+</Solution>

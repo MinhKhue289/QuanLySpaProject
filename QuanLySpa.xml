@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SpaData>
+	<DanhSachDichVu>
+		<DichVu MaDV="DV001" Loai="ChamSocSacDep">
+			<TenDV>Chăm sóc da mặt cơ bản</TenDV>
+			<Gia>600</Gia>
+		</DichVu>
+		<DichVu MaDV="DV002" Loai="ChamSocBody">
+			<TenDV>Massage body đá nóng</TenDV>
+			<Gia>800</Gia>
+		</DichVu>
+		<DichVu MaDV="DV003" Loai="DuongSinhTriLieu">
+			<TenDV>Gội đầu dưỡng sinh</TenDV>
+			<Gia>450</Gia>
+		</DichVu>
+		<DichVu MaDV="DV004" Loai="ChamSocSacDep">
+			<TenDV>Nặn mụn y khoa</TenDV>
+			<Gia>550</Gia>
+		</DichVu>
+		<DichVu MaDV="DV005" Loai="DuongSinhTriLieu">
+			<TenDV>Trị liệu vai gáy</TenDV>
+			<Gia>700</Gia>
+		</DichVu>
+	</DanhSachDichVu>
+	<DanhSachKhachHang>
+		<KhachHang MaKH="KH001">
+			<TenKH>Nguyễn Thị Lan</TenKH>
+			<SDT>0909111222</SDT>
+			<DichVuSuDung>
+				<MaDV>DV001</MaDV>
+				<MaDV>DV004</MaDV>
+			</DichVuSuDung>
+		</KhachHang>
+		<KhachHang MaKH="KH002">
+			<TenKH>Trần Văn An</TenKH>
+			<SDT>0988333444</SDT>
+			<DichVuSuDung>
+				<MaDV>DV001</MaDV>
+				<MaDV>DV002</MaDV>
+				<MaDV>DV003</MaDV>
+				<MaDV>DV005</MaDV>
+			</DichVuSuDung>
+		</KhachHang>
+		<KhachHang MaKH="KH003">
+			<TenKH>Lê Bảo Bình</TenKH>
+			<SDT>0912555666</SDT>
+			<DichVuSuDung>
+				<MaDV>DV003</MaDV>
+			</DichVuSuDung>
+		</KhachHang>
+	</DanhSachKhachHang>
+</SpaData>
